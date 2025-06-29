@@ -1,6 +1,6 @@
 text4.md
 
-> [!NOTE]  
+> [!NOTE] Note 
 > Highlights information that users should take into account, even when skimming.
 
 > [!TIP]
