@@ -8,5 +8,5 @@ Edited stuff...
 Hello from android...
 
 
-[link](text2.md)
-[link_folder](/folder_s1/text2.md)
+- [link](text2.md)
+- [link_folder](/folder_s1/text3.md)
