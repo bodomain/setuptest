@@ -1,2 +1,3 @@
 text4.md
->[!NOTE] Hello note.
+[!NOTE]
+Hello note.
